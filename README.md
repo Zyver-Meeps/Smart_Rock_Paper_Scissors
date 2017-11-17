@@ -2,7 +2,7 @@
 
 # A C++ game of Rock_Paper_Scissors that uses human psychology to beat you.
 
-# If you are interested please try the code first ! (Knowing how it works may corrupt the checking of the code).
+# If you are interested please run the code first! (Knowing how it works may corrupt the checking of the code).
 # The inputs are "0" for "rock" , "1" for paper , "2" for scissors.
 
 # SPOILERS DOWN ! 
