@@ -12,12 +12,12 @@ using namespace std;
 int main()
 {
     unsigned player_pick , last_player_pick , computer_pick, last_computer_pick;
-    char last_result[5];//5 chosen by random. Don't ask.
+    char last_result[5]; //5 chosen by random. Don't ask.
     ifstream fin("date.in");
     fin.seekg(0, fin.end);
     int length = fin.tellg();
     fin.seekg(0 , fin.beg);
-    if( length < 5 )//don't you dare asking
+    if( length < 5 ) //don't you dare asking
         {
             fin.close();
             ofstream fout("date.in");
