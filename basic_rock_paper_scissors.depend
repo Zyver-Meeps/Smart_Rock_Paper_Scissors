@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1462984785 source:c:\users\cosmi\desktop\codeshiet\smartaf\basic_rock_paper_scissors\main.cpp
-	<iostream>
-	<fstream>
-	<stdlib.h>
-	<time.h>
-	<string.h>
-
