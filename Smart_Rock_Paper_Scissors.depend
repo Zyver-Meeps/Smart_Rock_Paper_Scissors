@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510994793 source:/home/enzotech2/GitHub/Smart_Rock_Paper_Scissors/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
